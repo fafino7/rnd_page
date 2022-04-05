@@ -1,0 +1,28 @@
+header {
+    background-color: #006dff;
+    padding: 1px 10px;
+}
+
+#paris{
+    height: 70px;
+}
+
+#rnd{
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+#line{
+    height: 70px;
+}
+
+nav{
+    position: absolute;
+    top: 2px;
+    left: 55px;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
